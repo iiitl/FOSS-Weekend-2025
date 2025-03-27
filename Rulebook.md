@@ -27,13 +27,13 @@ Repositories are categorized as follows:
 - Multiple contributors can submit PRs for the same issue.
 - PRs will be closed after review, and points will be given accordingly.
 - **No assignment is required** in these repositories.
-- Tagged as Muliple-PR in readme.md
+- Tagged as `Muliple-PR` in readme.md
 
 ### 2. Single PR Per Issue
 - Only one PR is allowed per issue.
 - The PR will be merged after review, and points will be assigned.
 - The bot will be active here, and **assignment is required** to work on an issue.
-- Tagged as Unique-PR in readme.md
+- Tagged as `Unique-PR` in readme.md
 
 ## Issue Assignment System
 - To assign yourself an issue, comment `/assign`.
