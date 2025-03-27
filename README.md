@@ -64,7 +64,7 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 ---
 ## MUST DO  
 ### Git Practice (Multiple-PR)
-- [Git-Practice-weekend-25](https://github.com/iiitl/git-practice-weekend-25) - Pratham
+- [Git-Practice-weekend-25](https://github.com/iiitl/git-practice-weekend-25) - FOSS WING
 ---
 
 ## Repositories (Stack-Wise)
