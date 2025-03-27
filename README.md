@@ -90,7 +90,7 @@ Learn Git for FOSS development, right from the fundamentals - **Git Practice Wee
 ---
 
 ### App 
-- [Sneakers](https://github.com/iiitl/Sneakers) - Gaurav  
+- [Sneakers](https://github.com/iiitl/Sneakers) -(Multiple-PR) Gaurav  
 - [MessEase](http://github.com/iiitl/MessEase) (Unique-PR & Special Repo) - Ayush  
 - [foodify4.5](https://github.com/iiitl/foodify4.5) - Sagilinithin
 - [College-Fix-It](https://github.com/iiitl/College-Fix-It) -Tanish Moral
