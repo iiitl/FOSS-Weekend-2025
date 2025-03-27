@@ -79,7 +79,7 @@ Learn Git for FOSS development, right from the fundamentals - **Git Practice Wee
 - [jikan-rs](https://gitHub.com/iiitl/jikan-rs) - Siddharth
 - [bmi_calculator](https://github.com/iiitl/bmi_calculator) - Imrana
 - [WhatsappChatAnalyser](https://github.com/iiitl/WhatsappChatAnalyser) - (Web and ML) - Vaibhav
-- [student-hub](https://github.com/iiitl/student-hub) - Om Swami  
+- [student-hub](https://github.com/iiitl/student-hub) - Om, Maneesh, Aman, Aditya, Prashant
 - Aditya  
 - Jovial  
 - Manish  
