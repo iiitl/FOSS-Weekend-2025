@@ -80,11 +80,7 @@ Learn Git for FOSS development, right from the fundamentals - **Git Practice Wee
 - [bmi_calculator](https://github.com/iiitl/bmi_calculator) - Imrana
 - [WhatsappChatAnalyser](https://github.com/iiitl/WhatsappChatAnalyser) (Web and ML) - Vaibhav
 - [student-hub](https://github.com/iiitl/student-hub) (Unique-PR & Special Repo)- Om, Maneesh, Aman, Aditya, Prashant
-- Aditya  
-- Jovial  
-- Manish  
-- Rishi  
-
+  
 ---
 
 ### FOSS 
@@ -96,11 +92,9 @@ Learn Git for FOSS development, right from the fundamentals - **Git Practice Wee
 ### App 
 - [Sneakers](https://github.com/iiitl/Sneakers) - Gaurav  
 - [MessEase](http://github.com/iiitl/MessEase) (Unique-PR & Special Repo) - Ayush  
-- [foodify4.5](https://github.com/iiitl/foodify4.5) - Sagilinithin  
-- Rohan  
-- Tanish  
-- Yatin?  
-- Safiya  
+- [foodify4.5](https://github.com/iiitl/foodify4.5) - Sagilinithin
+- [College-Fix-It](https://github.com/iiitl/College-Fix-It) -Tanish Moral
+
 
 ---
 
