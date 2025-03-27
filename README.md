@@ -85,7 +85,7 @@ Learn Git for FOSS development, right from the fundamentals - **Git Practice Wee
 
 ### FOSS 
 - [affinity-bot](https://gitHub.com/iiitl/affinity-bot) - Sidharth  
-- [bash-practice-repo-25](https://github.com/iiitl/bash-practice-repo-25) - Imrana and Sidharth (Bash)  
+- [bash-practice-repo-25](https://github.com/iiitl/bash-practice-repo-25) -(Multiple-PR) Imrana and Sidharth (Bash)  
 
 ---
 
