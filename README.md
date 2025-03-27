@@ -81,14 +81,14 @@ Learn Git for FOSS development, right from the fundamentals - **Git Practice Wee
 
 ### FOSS 
 - [affinity-bot](https://gitHub.com/iiitl/affinity-bot) - Sidharth  
-- [bash-practice-repo-25](https://github.com/iiitl/bash-practice-repo-25) - Imrana and Sidharth (Bash)  
+- [bash-practice-repo-25](https://github.com/iiitl/bash-practice-repo-25) (Multiple-PR) - Imrana and Sidharth (Bash)  
 
 ---
 
 ### App 
 - [Sneakers](https://github.com/iiitl/Sneakers) -(Multiple-PR) Gaurav  
-- [MessEase](http://github.com/iiitl/MessEase) (Unique-PR & Special Repo) - Ayush  
-- [foodify4.5](https://github.com/iiitl/foodify4.5) - Sagilinithin
+- [MessEase](http://github.com/iiitl/MessEase) (Multiple-PR) - Ayush  
+- [foodify4.5](https://github.com/iiitl/foodify4.5) (Multiple-PR) - Sagilinithin
 - [College-Fix-It](https://github.com/iiitl/College-Fix-It) -Tanish Moral
 
 
@@ -97,7 +97,7 @@ Learn Git for FOSS development, right from the fundamentals - **Git Practice Wee
 ### ML
 - [Classification-ml](https://github.com/iiitl/Classification-ml) - Pratham
 - [Regression](https://github.com/iiitl/Regression) - Tanmay  
-- [WhatsappChatAnalyser](https://github.com/iiitl/WhatsappChatAnalyser) (Web and ML) - Vaibhav
+- [WhatsappChatAnalyser](https://github.com/iiitl/WhatsappChatAnalyser) (Web and ML)(Multiple-PR) - Vaibhav
 ---
 
 ### Web3  
