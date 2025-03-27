@@ -117,4 +117,4 @@ Learn Git for FOSS development, right from the fundamentals - **Git Practice Wee
 ---
 
 ### Infosec  
-- [SequriQuest](https://github.com/iiitl/SequriQuest) - Om Swami  
+- [SequriQuest](https://github.com/iiitl/SequriQuest) - Arshia Adhya, Om Swami and Gagan Mishra
