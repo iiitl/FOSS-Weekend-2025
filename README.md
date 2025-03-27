@@ -38,12 +38,8 @@ Points will be allocated and reflected on this [leaderboard](https://leaderboard
 
 ---
 
-## Special Instructions for Hard-Labeled Issues  
-
-- If an issue is labeled **hard**, request assignment before starting work.  
-- Only **3 participants** will be assigned per issue on a first-come, first-served basis.  
-- Each participant must submit a PR **within 3 hours** of assignment. (Extensions may be granted if needed.)  
-- If you realize you can't complete the issue, **unassign yourself** and leave a comment so others can take over.  
+## RuleBook 
+To understand how we score you, please refer to our detailed rulebook: [Rulebook.md](Rulebook.md).
 
 ---
 
@@ -85,7 +81,7 @@ Learn Git for FOSS development, right from the fundamentals - **Git Practice Wee
 
 ### FOSS 
 - [affinity-bot](https://gitHub.com/iiitl/affinity-bot) - Sidharth  
-- [bash-practice-repo-25](https://github.com/iiitl/bash-practice-repo-25) -(Multiple-PR) Imrana and Sidharth (Bash)  
+- [bash-practice-repo-25](https://github.com/iiitl/bash-practice-repo-25) - Imrana and Sidharth (Bash)  
 
 ---
 
@@ -112,4 +108,3 @@ Learn Git for FOSS development, right from the fundamentals - **Git Practice Wee
 
 ### Infosec  
 - [SequriQuest](https://github.com/iiitl/SequriQuest) (Unique-PR & Special Repo)- Arshia Adhya, Om Swami and Gagan Mishra
-
