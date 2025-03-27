@@ -5,10 +5,10 @@
 As a maintainer, you are responsible for evaluating and assigning points to Pull Requests (PRs) based on the following system:
 
 ### Base Points:
-- **Mandatory PR Submission**: 5 pts
+- **Mandatory PR Submission**: 10 pts
 - **Easy Issue PR**: 10 pts
-- **Medium Issue PR**: 20 pts
-- **Hard Issue PR**: 30 pts
+- **Medium Issue PR**: 15 pts
+- **Hard Issue PR**: 25 pts
 - **Valid Issue Raised**: 5 pts (If a contributor raises a valid issue, even if they don't submit a PR, they receive 5 points if the issue is valid)
 
 ### For Stundent-Hub, MessEase , SequriQuest only
@@ -16,11 +16,7 @@ As a maintainer, you are responsible for evaluating and assigning points to Pull
 - **Special Repository PR**: Up to 10 additional pts (Only on medium and hard issues)
 
 ### Quality Bonus (Up to 10 pts):
-Additional points can be awarded based on PR quality:
-- **PR Description**: 2 pts (Clear and informative description)
-- **Quality of PR**: 4 pts (Well-structured, clean code, proper formatting, and follows best practices)
-- **Commit Message**: 2 pts (Meaningful and concise commit messages)
-- **Commit History is Clear**: 2 pts (No unnecessary commits, properly squashed commits when needed)
+
 
 ## Repositories
 Repositories will be divided into two categories:
