@@ -13,7 +13,7 @@ The flagship event of Techfest, featuring various repositories across different 
 
 ## Leaderboard  
 
-Points will be allocated and reflected on this [leaderboard](link).  
+Points will be allocated and reflected on this [leaderboard](https://leaderboard.axiosiiitl.dev/).  
 
 ---
 
@@ -79,7 +79,7 @@ Learn Git for FOSS development, right from the fundamentals - **Git Practice Wee
 - [jikan-rs](https://gitHub.com/iiitl/jikan-rs) - Siddharth
 - [bmi_calculator](https://github.com/iiitl/bmi_calculator) - Imrana
 - [WhatsappChatAnalyser](https://github.com/iiitl/WhatsappChatAnalyser) - (Web and ML) - Vaibhav
-
+- [student-hub](https://github.com/iiitl/student-hub) - Om Swami  
 - Aditya  
 - Jovial  
 - Manish  
@@ -90,7 +90,6 @@ Learn Git for FOSS development, right from the fundamentals - **Git Practice Wee
 ### FOSS 
 - [affinity-bot](https://gitHub.com/iiitl/affinity-bot) - Sidharth  
 - [bash-practice-repo-25](https://github.com/iiitl/bash-practice-repo-25) - Imrana and Sidharth (Bash)  
-- [student-hub](https://github.com/iiitl/student-hub) - Om Swami  
 
 ---
 
@@ -106,8 +105,8 @@ Learn Git for FOSS development, right from the fundamentals - **Git Practice Wee
 ---
 
 ### ML
-- [Classification-ml](https://github.com/iiitl/Classification-ml) - Devansh Verma  
-- [Regression](https://github.com/iiitl/Regression) - Yuwansh  
+- [Classification-ml](https://github.com/iiitl/Classification-ml) - Pratham
+- [Regression](https://github.com/iiitl/Regression) - Tanmay  
 - [WhatsappChatAnalyser](https://github.com/iiitl/WhatsappChatAnalyser) (Web and ML) - Vaibhav
 ---
 
