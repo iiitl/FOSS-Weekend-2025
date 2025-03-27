@@ -106,5 +106,5 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 
 ---
 
-### Infosec  
+### Infosec (Website)
 - [SequriQuest](https://github.com/iiitl/SequriQuest) (Unique-PR & Special Repo)- Arshia Adhya, Om Swami and Gagan Mishra
