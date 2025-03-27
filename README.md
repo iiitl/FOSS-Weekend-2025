@@ -67,19 +67,19 @@ Points will be allocated and reflected on this [leaderboard](https://leaderboard
 
 ---
 ## MUST DO  
-### Git Practice  
+### Git Practice (Multiple-PR)
 Learn Git for FOSS development, right from the fundamentals - **Git Practice Weekend 25**   **Highly Recommended!**  
 
 ---
 
-## Repositories  
+## Repositories (Stack-Wise)
 
 ### Web 
 - [PagePalette](https://github.com/iiitl/PagePalette) - Gaurav  
 - [jikan-rs](https://gitHub.com/iiitl/jikan-rs) - Siddharth
 - [bmi_calculator](https://github.com/iiitl/bmi_calculator) - Imrana
 - [WhatsappChatAnalyser](https://github.com/iiitl/WhatsappChatAnalyser) - (Web and ML) - Vaibhav
-- [student-hub](https://github.com/iiitl/student-hub) - Om, Maneesh, Aman, Aditya, Prashant
+- [student-hub](https://github.com/iiitl/student-hub) -(Unique-PR & Special Repo) Om, Maneesh, Aman, Aditya, Prashant
 - Aditya  
 - Jovial  
 - Manish  
@@ -95,7 +95,7 @@ Learn Git for FOSS development, right from the fundamentals - **Git Practice Wee
 
 ### App 
 - [Sneakers](https://github.com/iiitl/Sneakers) - Gaurav  
-- [MessEase](http://github.com/iiitl/MessEase) - Ayush  
+- [MessEase](http://github.com/iiitl/MessEase) -(Unique-PR & Special Repo) Ayush  
 - [foodify4.5](https://github.com/iiitl/foodify4.5) - Sagilinithin  
 - Rohan  
 - Tanish  
@@ -117,4 +117,4 @@ Learn Git for FOSS development, right from the fundamentals - **Git Practice Wee
 ---
 
 ### Infosec  
-- [SequriQuest](https://github.com/iiitl/SequriQuest) - Arshia Adhya, Om Swami and Gagan Mishra
+- [SequriQuest](https://github.com/iiitl/SequriQuest) -(Unique-PR & Special Repo) Arshia Adhya, Om Swami and Gagan Mishra
