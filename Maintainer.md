@@ -13,7 +13,7 @@ As a maintainer, you are responsible for evaluating and assigning points to Pull
 
 ### For Stundent-Hub, MessEase , SequriQuest only
 - **As these repos has a proper future, and will be used by students so contributing to these will give additional special repo status points to the contributor**
-- **Special Repository PR**: Up to 15 additional pts (Only on medium and hard issues)
+- **Special Repository PR**: Up to 10 additional pts (Only on medium and hard issues)
 
 ### Quality Bonus (Up to 10 pts):
 Additional points can be awarded based on PR quality:
