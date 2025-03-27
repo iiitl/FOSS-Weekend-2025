@@ -70,7 +70,7 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 ## Repositories (Stack-Wise)
 
 ### Web 
-- [PagePalette](https://github.com/iiitl/PagePalette) - Gaurav  
+- [PagePalette](https://github.com/iiitl/PagePalette) (Unique-PR)- Gaurav  
 - [jikan-rs](https://gitHub.com/iiitl/jikan-rs) - Siddharth
 - [bmi_calculator](https://github.com/iiitl/bmi_calculator) (Multiple-pr) - Imrana
 - [WhatsappChatAnalyser](https://github.com/iiitl/WhatsappChatAnalyser) (Web and ML) - Vaibhav
@@ -85,7 +85,7 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 ---
 
 ### App 
-- [Sneakers](https://github.com/iiitl/Sneakers) -(Multiple-PR) Gaurav  
+- [Sneakers](https://github.com/iiitl/Sneakers) -(Unique-PR) Gaurav  
 - [MessEase](http://github.com/iiitl/MessEase) (Unique-PR & Special Repo) - Ayush  
 - [foodify4.5](https://github.com/iiitl/foodify4.5) (Multiple-PR) - Sagilinithin
 - [College-Fix-It](https://github.com/iiitl/College-Fix-It) (Unique-PR)-Tanish Moral
