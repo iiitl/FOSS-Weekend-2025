@@ -46,6 +46,7 @@ Repositories are categorized as follows:
   - **Medium Issue**: 3 hours
   - **Hard Issue**: 5 hours
   - **No label**: Considered **Medium Issue** (3 hours)
+  - **There will be no time limit for issues in multiple-pr repositories**
 - If you need more time due to substantial work done, you can request the maintainer to increase the time.
 - **Note**: Extensions are given only when necessary and only when you have shown what you have done , so assign issue only if you can work on it.
 
