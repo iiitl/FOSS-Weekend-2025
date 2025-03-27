@@ -9,9 +9,9 @@ Your contributions will be evaluated and assigned points based on the following 
 ### Base Points:
 - **Mandatory PR Submission**: 5 pts
 - **Easy Issue PR**: 10 pts
-- **Medium Issue PR**: 20 pts
-- **Hard Issue PR**: 30 pts
-- **Valid Issue Raised**: 5 pts (If you raise a valid issue, even if you don’t submit a PR, you receive 5 points if the issue is valid)
+- **Medium Issue PR**: 15 pts
+- **Hard Issue PR**: 25 pts
+- **Valid Issue Raised**: 10 pts (If you raise a valid issue, even if you don’t submit a PR, you receive 5 points if the issue is valid)
 
 ### Special Repo PR Bonus (For Student-Hub, MessEase, Github-bot and SequriQuest Only)
 - These repositories are intended for future use by students, making them high-value projects.
