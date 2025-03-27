@@ -100,8 +100,8 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 ---
 
 ### Web3  
-- [contract-combat-web3](https://github.com/iiitl/contract-combat-web3) - Raj Shukla (Main)  
-- [crowdRaise-educhain](https://github.com/iiitl/crowdRaise-educhain) - Raj and Vishal
+- [contract-combat-web3](https://github.com/iiitl/contract-combat-web3) -(Multiple-PR) Raj Shukla (Main)  
+- [crowdRaise-educhain](https://github.com/iiitl/crowdRaise-educhain) -(Multiple-PR) Raj and Vishal
 
 ---
 
