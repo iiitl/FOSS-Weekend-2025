@@ -76,6 +76,7 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 - [WhatsappChatAnalyser](https://github.com/iiitl/WhatsappChatAnalyser) (Web and ML) - Vaibhav
 - [student-hub](https://github.com/iiitl/student-hub) (Unique-PR & Special Repo)- Om, Maneesh, Aman, Aditya, Prashant
 - [store-hub](https://github.com/iiitl/StoreHUB) (Unique-PR)- RishiRaj
+- [Stuconnect](https://github.com/iiitl/Stuconnect) (Multiple-pr) - Jovial
   
 ---
 
