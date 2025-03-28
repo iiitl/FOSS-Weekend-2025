@@ -96,8 +96,8 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 ---
 
 ### ML
-- [Classification-ml](https://github.com/iiitl/Classification-ml) - Pratham
-- [Regression](https://github.com/iiitl/Regression-25) - Tanmay   
+- [Classification-ml](https://github.com/iiitl/Classification-ml) (Multiple-PR)- Pratham
+- [Regression](https://github.com/iiitl/Regression-25) (Multiple-PR)- Tanmay   
 - [WhatsappChatAnalyser](https://github.com/iiitl/WhatsappChatAnalyser) (Web and ML)(Multiple-PR) - Vaibhav
 ---
 
