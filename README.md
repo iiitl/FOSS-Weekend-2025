@@ -71,7 +71,7 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 
 ### Web 
 - [PagePalette](https://github.com/iiitl/PagePalette) (Unique-PR)- Gaurav 
-- [jikan-rs](https://gitHub.com/iiitl/jikan-rs) - Siddharth
+- [jikan-rs](https://gitHub.com/iiitl/jikan-rs) (Unique-PR) - Siddharth
 - [bmi_calculator](https://github.com/iiitl/bmi_calculator) (Multiple-pr) - Imrana
 - [WhatsappChatAnalyser](https://github.com/iiitl/WhatsappChatAnalyser) (Web and ML) - Vaibhav
 - [student-hub](https://github.com/iiitl/student-hub) (Unique-PR & Special Repo)- Om, Maneesh, Aman, Aditya, Prashant
